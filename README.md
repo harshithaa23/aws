@@ -10,6 +10,6 @@ This repository contains my initial projects and exercises as I learn and explor
 
 
 # Goals
- > Gain hands-on experience with core AWS services.
- > Build simple projects to understand the basics of cloud infrastructure.
- > Document each project to track my learning progress.
+ * Gain hands-on experience with core AWS services.
+ * Build simple projects to understand the basics of cloud infrastructure.
+ * Document each project to track my learning progress.
