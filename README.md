@@ -1,4 +1,4 @@
-# aws
+# AWS Practice Repository
 # Overview
 This repository contains my initial projects and exercises as I learn and explore AWS (Amazon Web Services). Here, I’m experimenting with basic services to build a foundational understanding of cloud computing.
 
