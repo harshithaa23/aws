@@ -13,7 +13,7 @@ Amazon S3 (Simple Storage Service) is a scalable cloud storage solution that all
 - Resolve errors like `403 Forbidden`.
 - Automate deployment with scripts.
 
-This project was guided by **NextWork**, whose resources and tutorials helped structure the workflow effectively.
+This project was guided by **NextWork**(https://nextwork.org), whose resources and tutorials helped structure the workflow effectively.
 
 ---
 
