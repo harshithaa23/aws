@@ -64,7 +64,7 @@ This guide provides step-by-step instructions for hosting a static website on AW
 
 ---
 
-### 6. (Optional) Add Bucket Policies
+### 6. Add Bucket Policies
 To enhance access control:
 1. Go to the bucket’s **Permissions** tab.
 2. Add a **Bucket Policy** to prevent accidental deletions or control access further.
